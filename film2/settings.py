@@ -92,4 +92,4 @@ ITEM_PIPELINES = {
 
 IMAGES_STORE='D:'
 
-#test
+COMMANDS_MODULE = 'film2.commands'
