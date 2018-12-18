@@ -2,7 +2,7 @@
 
 
 ### 功能:
-- 爬取 http://www.tuku.pianliang.com 网站的所有图片
+- 爬取 http://www.tuku.piaoliang.com 网站美女和明星板块的所有图片
 
 
 ## 环境配置
