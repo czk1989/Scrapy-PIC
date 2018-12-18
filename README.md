@@ -1,5 +1,4 @@
 ## Scrapy-PIC
-爬取某一网站的图片
 
 
 ### 功能:
@@ -12,9 +11,13 @@
 - scrapy
 
 ### 使用
+
+#### 启动单个爬虫
 - scrapy crawl meinv --nolog
 - scrapy crawl mingxing --nolog
-- 或者统一执行：scrapy crawlall --nolog
+
+#### 启动全部爬虫
+- scrapy crawlall --nolog
 
 ### 作者基本信息
 - [blog](http://www.cnblogs.com/daemon-czk/)
