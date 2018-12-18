@@ -2,7 +2,7 @@
 
 
 ### 功能:
-- 爬取 www.pianliang.com 图片
+- 爬取 www.pianliang.com 网站的所有图片
 
 
 ## 环境配置
